@@ -14,7 +14,7 @@
 
 <p align="center">
 📧 Email: <a href="mailto:jabrieljab@gmail.com">jabrieljab@gmail.com</a> <br>
-🌐 Portfolio: <a href="https://ananta15-portfolio.vercel.app/">ananta1507.github.io/Personal-Web</a>
+🌐 Portfolio: <a href="https://ananta15-portfolio.vercel.app/">Portfolio Website</a>
 </p>
 
 ---
